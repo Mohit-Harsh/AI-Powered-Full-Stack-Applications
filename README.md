@@ -1,4 +1,4 @@
-# Web-Dev-Projects
+# AI-Powered Full Stack Applications
 
 <br>
 
@@ -6,16 +6,13 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
+      <a href="#Eduverse">Eduverse Student Companion</a>
+    </li>
+    <li>
       <a href="#cinepick">Cinepick Movie Website</a>
     </li>
     <li>
       <a href="#hack-stack">Hack/Stack</a>
-    </li>
-    <li>
-      <a href="#job-posts-microservice">Job Posts Microservice</a>
-    </li>
-    <li>
-      <a href="#social-media-posts-microservice">Social-Media-Posts Microservice</a>
     </li>
     <li>
       <a href="#movie-synopsis-search">Movies Website</a>
@@ -24,6 +21,18 @@
 </details>
 
 <br>
+
+## Eduverse Student Companion
+
+<a href="https://github.com/Mohit-Harsh/Eduverse"><img id="hack-stack-img" src="./assets/eduverse.png"></a>
+
+### About The Project
+
+Eduverse is an AI-Powered desktop application designed to help users create, manage, and share personalized learning roadmaps and study resources for any skill they wish to acquire. Whether you're learning to code, play an instrument, or master a new language, Eduverse simplifies the process by providing  structured roadmaps, resource management, and social sharing capabilities.
+
+### Built With
+
+![electron] ![nodejs] ![React.js] ![mongodb] ![openai]
 
 ## Cinepick Movie Website
 
@@ -58,39 +67,6 @@ This is a `React` and `Django` Application for analyzing your coding performance
 
 <br>
 
-## Job Posts Microservice
-
-<a href="https://github.com/Mohit-Harsh/JobPosts-Spring-React"><img src="./assets/JobPost diagram.svg"></a>
-
-`Click Image -> Repo`
-
-### About The Project
-
-A Web Application to Post Job Applications built using `Spring` (backend) and `React` (frontend). The application follows `Microservices Design Principles`.
-
-### Built With
-
-![spring] ![React.js] ![postgres] ![rabbitmq] ![HTML] ![CSS]
-
-<br>
-
-## Social Media Posts Microservice
-
-<a href="https://github.com/Mohit-Harsh/JobPosts-Spring-React"><img src="./assets/social-media-posts.gif"></a>
-
-`Click Image -> Repo`
-
-### About The Project
-
-This project implements 2 important features of a `Social Media Messaging App` -> managing `User Posts` and `User Notifications` using Microservices Architecture.
-
-### Built With
-
-![spring] ![rabbitmq] ![postgres]
-
-
-<br>
-
 ## Movie Synopsis Search
 
 <a href="https://github.com/Mohit-Harsh/Movie-Synopsis-Search"><img src="./assets/movie website.jpg"></a>
@@ -122,3 +98,7 @@ In this project we have implemented an `AI Powered Search Engine` for a Movies W
 [postgres]:https://img.shields.io/badge/PostgreSQL-blue?style=for-the-badge&logo=postgresql&logoColor=white
 [langchain]: https://img.shields.io/badge/Langchain-black?style=for-the-badge&logo=langchain
 [fastapi]: https://img.shields.io/badge/FastAPIt-blue?style=for-the-badge&logo=fastapi&logoColor=white
+[openai]: https://img.shields.io/badge/Openai-black?style=for-the-badge&logo=openai
+[electron]: https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron
+[mongodb]: https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb
+[nodejs]: https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js
